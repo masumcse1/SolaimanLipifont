@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+
+
+	<fontFamily name="SolaimanLipi">
+		<normal>fonts/SolaimanLipi.ttf</normal>
+		
+		<bold>fonts/SolaimanLipi_Bold.ttf</bold>
+
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'SolaimanLipi' , 'Arial', 'Times New Roman', 'sans-serif'</export>
+			<export key="net.sf.jasperreports.xhtml">'SolaimanLipi' , 'Arial', 'Times New Roman', 'sans-serif'</export>
+		</exportFonts>
+		
+	
+		
+	</fontFamily>
+
+
+
+
+
+
+</fontFamilies>
